@@ -1,0 +1,15 @@
+D:\C# Development\KRC2LRC\GetLrcsForSongs\bin\x64\Debug\GetLrcForm.resx
+D:\C# Development\KRC2LRC\GetLrcsForSongs\bin\x64\Debug\GetLrcForm.cs
+D:\C# Development\KRC2LRC\GetLrcsForSongs\bin\x64\Debug\GetLrcForm.Designer.cs
+D:\C# Development\KRC2LRC\GetLrcsForSongs\bin\x64\Debug\Bass.Net.dll
+D:\C# Development\KRC2LRC\GetLrcsForSongs\bin\x64\Debug\LitJson.dll
+D:\C# Development\KRC2LRC\GetLrcsForSongs\obj\x64\Debug\GetLrcsForSongs.BetterTextBox.resources
+D:\C# Development\KRC2LRC\GetLrcsForSongs\obj\x64\Debug\GetLrcsForSongs.GetLrcForm.resources
+D:\C# Development\KRC2LRC\GetLrcsForSongs\obj\x64\Debug\GetLrcsForSongs.Properties.Resources.resources
+D:\C# Development\KRC2LRC\GetLrcsForSongs\obj\x64\Debug\GetLrcsForSongs.csproj.GenerateResource.Cache
+D:\C# Development\KRC2LRC\GetLrcsForSongs\obj\x64\Debug\GetLrcsForSongs.csprojResolveAssemblyReference.cache
+D:\C# Development\KRC2LRC\GetLrcsForSongs\bin\x64\Debug\酷狗LRC歌词搜索.exe.config
+D:\C# Development\KRC2LRC\GetLrcsForSongs\bin\x64\Debug\酷狗LRC歌词搜索.exe
+D:\C# Development\KRC2LRC\GetLrcsForSongs\bin\x64\Debug\酷狗LRC歌词搜索.pdb
+D:\C# Development\KRC2LRC\GetLrcsForSongs\obj\x64\Debug\酷狗LRC歌词搜索.exe
+D:\C# Development\KRC2LRC\GetLrcsForSongs\obj\x64\Debug\酷狗LRC歌词搜索.pdb
